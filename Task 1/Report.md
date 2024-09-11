@@ -1,7 +1,7 @@
 # Fog Harbor Fish House Review Analysis
 
 ## Average Rating
-The average rating for Chipotle Mexican Grill is **4.41**.
+The average rating for Fog Harbor Fish House is **4.41**.
 
 ## Common Positive Comments
 1. Clam Chowder
