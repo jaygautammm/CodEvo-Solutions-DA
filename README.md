@@ -1,4 +1,4 @@
-# This Repository contains the project works CODEVO Solution
+# This Repository contains the project works for CODEVO Solution
 
 ## Task 1
 - scraped the reviews of **Fog Harbor Fish House** Restaurant at *yelp.com*
